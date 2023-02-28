@@ -15,10 +15,12 @@ The first programme is a number guessing game. Inspired by 'Mastermind', the pla
 Inspired by the Markov text composer, I developed a Lorem Ipsum generator with charm.
 The texts I used I got from Project Gutenberg. The GUI version works according to my ideas. 
 
+## garage
+Implementation of a task from a job interview. A proposed solution in Python 3.
+Vehicles with four and two wheels search for a parking space in a parking garage. The script should facilitate the management and provide information about the occupancy. I have added the task as text.
 
 
-
-
+---
 
 
 _Translated from german with help of www.DeepL.com/Translator (free version)_
