@@ -11,7 +11,9 @@ If you want to correct mistakes or show improvements, you are very welcome to co
 ## mmClone
 The first programme is a number guessing game. Inspired by 'Mastermind', the player has to guess a 5-digit number code. After each attempt, the player receives hints to help him guess. Developed with Python 3.9, it runs in the console. 
 
-
+## textgen
+Inspired by the Markov text composer, I developed a Lorem Ipsum generator with charm.
+The texts I used I got from Project Gutenberg. The GUI version works according to my ideas. 
 
 
 
