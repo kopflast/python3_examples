@@ -19,4 +19,4 @@ The first programme is a number guessing game. Inspired by 'Mastermind', the pla
 
 
 
-_Translated from german with help from www.DeepL.com/Translator (free version)_
+_Translated from german with help of www.DeepL.com/Translator (free version)_
