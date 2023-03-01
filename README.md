@@ -23,7 +23,11 @@ Vehicles with four and two wheels search for a parking space in a parking garage
 A little stock market game in the terminal. I got the suggestion from an old board game from my youth.
 There are four companies (the names don't really matter) that are traded on the stock exchange. The player trades from his depot and the computer also draws, so there is movement in the market values. The output on the console uses the colors that are available. No special modules necessary.
 
----
+## zahlenraten
+A very simple script looking for a three digit number. Not all input errors are caught. The game is operated via the console and does not require a menu. The script chooses a random three-digit number between 111 and 999, the player enters three digits and learns whether his input is a hit, it is too high or too low. If successful, the script outputs the number of attempts and the time needed.
 
+
+
+---
 
 _Translated from german with help of www.DeepL.com/Translator (free version)_
