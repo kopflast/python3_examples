@@ -26,6 +26,9 @@ There are four companies (the names don't really matter) that are traded on the 
 ## zahlenraten
 A very simple script looking for a three digit number. Not all input errors are caught. The game is operated via the console and does not require a menu. The script chooses a random three-digit number between 111 and 999, the player enters three digits and learns whether his input is a hit, it is too high or too low. If successful, the script outputs the number of attempts and the time needed.
 
+## lotto
+Very simple lottery simulator 6 out of 49 with extra number. The random module is not very random.
+Good luck.
 
 
 ---
