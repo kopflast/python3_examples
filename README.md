@@ -21,9 +21,7 @@ Vehicles with four and two wheels search for a parking space in a parking garage
 
 ## boerse
 A little stock market game in the terminal. I got the suggestion from an old board game from my youth.
-There are four companies (the names don't really matter) that are traded on are traded on the stock exchange. The player trades from his
-and the computer also draws, so there is movement in the market values.
-The output on the console uses the colors that are available. No special modules necessary.
+There are four companies (the names don't really matter) that are traded on the stock exchange. The player trades from his depot and the computer also draws, so there is movement in the market values. The output on the console uses the colors that are available. No special modules necessary.
 
 ---
 
