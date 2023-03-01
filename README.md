@@ -19,6 +19,11 @@ The texts I used I got from Project Gutenberg. The GUI version works according t
 Implementation of a task from a job interview. A proposed solution in Python 3.
 Vehicles with four and two wheels search for a parking space in a parking garage. The script should facilitate the management and provide information about the occupancy. I have added the task as text.
 
+## boerse
+A little stock market game in the terminal. I got the suggestion from an old board game from my youth.
+There are four companies (the names don't really matter) that are traded on are traded on the stock exchange. The player trades from his
+and the computer also draws, so there is movement in the market values.
+The output on the console uses the colors that are available. No special modules necessary.
 
 ---
 
