@@ -1,0 +1,13 @@
+# Boerse
+
+Ein kleines Börsenspiel im Terminal. 
+Die Anregung habe ich von einem alten Brettspiel aus der Jugend.
+Es gibt vier Unternehmen (die Namen sind eigentlich egal) die an 
+an der Börse gehandelt werden. Der Spieler handelt aus seinem
+Depot und der Computer zieht ebenfalls, so kommt Bewegung in die
+Kurswerte.
+
+Die Ausgabe auf der Console nutzt die Farben, die zur Verfügung stehen.
+
+Keine besonderen Module notwendig.
+
