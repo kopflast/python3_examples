@@ -1,0 +1,4 @@
+# Zahlenraten
+
+Ein sehr einfaches Skript auf der Suche nach einer dreistelligen Zahl. Nicht alle Eingabefehler werden abgefangen. Das Spiel wird über die Console bedient und erfordert kein Menu. Das Skript wählt eine zufällige dreistellige Zahl zwischen 111 und 999, der Spieler gibt drei Ziffern ein und erfährt ob seine Eingabe ein Treffer ist, sie zu hoch oder zu niedrig gewählt ist.
+Bei Erfolg gibt das Skript die Anzahl Versuche und die benötigte Zeit aus.
